@@ -1,0 +1,10 @@
+﻿Build started 12/14/2014 11:48:57 PM.
+     1>Project "C:\Users\vedika\Documents\Visual Studio 2013\Projects\pg3_final_vseth\pg3_opengl_vseth\pg3_opengl_vseth.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (pg3_opengl_vseth.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         pg3_opengl_vseth.vcxproj -> C:\Users\vedika\Documents\Visual Studio 2013\Projects\pg3_final_vseth\Debug\pg3_final_vseth.exe
+     1>Done Building Project "C:\Users\vedika\Documents\Visual Studio 2013\Projects\pg3_final_vseth\pg3_opengl_vseth\pg3_opengl_vseth.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.70

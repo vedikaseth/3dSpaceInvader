@@ -1,0 +1,2 @@
+object_file ship.obj
+scale_factor 10

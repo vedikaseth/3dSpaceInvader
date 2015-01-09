@@ -1,0 +1,11 @@
+light light1
+pos 0 1 2
+ambient 1 1 1
+diffuse 1 1 1
+specular 1 1 1
+#light light2
+#pos 0 -.8 2
+#ambient 1 1 1
+#diffuse 1 1 1
+#specular 1 1 1
+
